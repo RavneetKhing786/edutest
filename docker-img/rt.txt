@@ -1,0 +1,13 @@
+https://github.com/RavneetKhing786/edutest.git   
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	modified:   rt.txt
+hsi isadsll sdl ^O
+
+adsfasdl^^^^^OE   
+
+docker folder upload for it
+
